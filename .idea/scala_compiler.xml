@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="mviroli-public-pps25-code-scala_8283,mviroli-public-pps25-code-scala_8283.main,mviroli-public-pps25-code-scala_8283.test,pps-code-scala,pps-code-scala.main,pps-code-scala.test" />
+  </component>
+</project>
